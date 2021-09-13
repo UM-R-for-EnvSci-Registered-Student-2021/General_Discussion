@@ -7,4 +7,4 @@ You can tag your peers using their handle (`@peperg`, for example) to get their 
 
 
 
-See the [Announcements](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Announcementsrepository) for actual announcements about the course.
+See the [Announcements](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Announcements) repository for actual announcements about the course.
