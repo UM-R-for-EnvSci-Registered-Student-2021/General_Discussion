@@ -1,5 +1,5 @@
 # General Discussion
-You can discuss topics related to course in the [the Issues](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/general-discussio/issues) of this repository. 
+You can discuss topics related to course in the [the Issues](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/General_Discussion/issues) of this repository. 
 
 To start a new discussion thread, create a new Issue. 
 
