@@ -5,7 +5,7 @@ To start a new discussion thread, create a new Issue.
 
 You can tag your peers using their handle (`@peperg`, for example) to get their attention.
 
-Once the issue has been resolved (i.e. we have figured out what the problem was and all is working) we can close the issue. Remember to brouse through 88closed issues** every once in a while, you might find answers to your own questions there!
+Once the issue has been resolved (i.e. we have figured out what the problem was and all is working) we can close the issue. Remember to brouse through **closed issues** every once in a while, you might find answers to your own questions there!
 
 
 
